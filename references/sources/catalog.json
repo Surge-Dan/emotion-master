@@ -1,0 +1,799 @@
+[
+  {
+    "id": "P01",
+    "title": "Marty Cagan，The Four Big Risks。用于价值、可用性、可行性和持续维护取舍",
+    "url": "https://www.svpg.com/four-big-risks/",
+    "publisher": "SVPG",
+    "review_depth": "官方原文",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "仅按已读取范围使用",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "产品方法与交互设计",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "P02",
+    "title": "Teresa Torres，Opportunity Solution Trees。用于把目标、困难、方案与验证串联",
+    "url": "https://www.producttalk.org/opportunity-solution-trees/",
+    "publisher": "Product Talk",
+    "review_depth": "官方原文及检索摘要",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "仅按已读取范围使用",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "产品方法与交互设计",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "P03",
+    "title": "Progressive Disclosure。用于首次引导与逐步补充信息",
+    "url": "https://www.nngroup.com/articles/progressive-disclosure/",
+    "publisher": "NN/g",
+    "review_depth": "官方检索摘要",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "仅按已读取范围使用",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "产品方法与交互设计",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "R01",
+    "title": "Machine learning uncovers the most robust self-report predictors of relationship quality across 43 longitudinal couples studies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32719123/",
+    "publisher": "PubMed",
+    "review_depth": "Europe PMC官方完整摘要与书目已读",
+    "locator": "Abstract",
+    "checked_at": "2026-11-06",
+    "limitations": "关系变化仍难预测，不能估算个人离婚概率",
+    "conflict_of_interest": "摘要不足以系统核查作者利益冲突",
+    "authors": "Joel S, Eastwick PW, Allison CJ, Arriaga XB, Baker ZG, Bar-Kalifa E, Bergeron S, Birnbaum GE, Brock RL, Brumbaugh CC, Carmichael CL, Chen S, Clarke J, Cobb RJ, Coolsen MK, Davis J, de Jong DC, Debrot A, DeHaas EC, Derrick JL, Eller J, Estrada MJ, Faure R, Finkel EJ, Fraley RC, Gable SL, Gadassi-Polack R, Girme YU, Gordon AM, Gosnell CL, Hammond MD, Hannon PA, Harasymchuk C, Hofmann W, Horn AB, Impett EA, Jamieson JP, Keltner D, Kim JJ, Kirchner JL, Kluwer ES, Kumashiro M, Larson G, Lazarus G, Logan JM, Luchies LB, MacDonald G, Machia LV, Maniaci MR, Maxwell JA, Mizrahi M, Muise A, Niehuis S, Ogolsky BG, Oldham CR, Overall NC, Perrez M, Peters BJ, Pietromonaco PR, Powers SI, Prok T, Pshedetzky-Shochat R, Rafaeli E, Ramsdell EL, Reblin M, Reicherts M, Reifman A, Reis HT, Rhoades GK, Rholes WS, Righetti F, Rodriguez LM, Rogge R, Rosen NO, Saxbe D, Sened H, Simpson JA, Slotter EB, Stanley SM, Stocker S, Surra C, Ter Kuile H, Vaughn AA, Vicary AM, Visserman ML, Wolf S.",
+    "year": "2020",
+    "doi": "10.1073/pnas.1917036117",
+    "pmid": "32719123",
+    "supported_claim": "43组纵向伴侣研究，关系特定的本人报告可提供信息",
+    "source_type": "多样本纵向研究",
+    "use_status": "按核查深度支持相关知识卡",
+    "retrieval_url": "https://europepmc.org/article/MED/32719123",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 203,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "R02",
+    "title": "Intimacy as an interpersonal process: the importance of self-disclosure, partner disclosure, and perceived partner responsiveness in interpersonal exchanges.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9599440/",
+    "publisher": "PubMed",
+    "review_depth": "Europe PMC官方完整摘要与书目已读",
+    "locator": "Abstract",
+    "checked_at": "2026-11-06",
+    "limitations": "日记及观察关联，不保证某段话能制造亲密",
+    "conflict_of_interest": "摘要不足以系统核查作者利益冲突",
+    "authors": "Laurenceau JP, Barrett LF, Pietromonaco PR.",
+    "year": "1998",
+    "doi": "10.1037//0022-3514.74.5.1238",
+    "pmid": "9599440",
+    "supported_claim": "自我表露与感知回应性与亲密体验相关",
+    "source_type": "日记研究",
+    "use_status": "按核查深度支持相关知识卡",
+    "retrieval_url": "https://europepmc.org/article/MED/9599440",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 203,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "R03",
+    "title": "The interpersonal process model of intimacy in marriage: a daily-diary and multilevel modeling approach.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/15982109/",
+    "publisher": "PubMed",
+    "review_depth": "Europe PMC官方完整摘要与书目已读",
+    "locator": "Abstract",
+    "checked_at": "2026-11-06",
+    "limitations": "特定样本与自报资料，不能读心",
+    "conflict_of_interest": "摘要不足以系统核查作者利益冲突",
+    "authors": "Laurenceau JP, Barrett LF, Rovine MJ.",
+    "year": "2005",
+    "doi": "10.1037/0893-3200.19.2.314",
+    "pmid": "15982109",
+    "supported_claim": "96对已婚伴侣的42日日记，观察亲密互动过程",
+    "source_type": "伴侣日记研究",
+    "use_status": "按核查深度支持相关知识卡",
+    "retrieval_url": "https://europepmc.org/article/MED/15982109",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 203,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "R04",
+    "title": "A meta-analytical review of the demand/withdraw pattern of interaction and its associations with individual, relational, and communicative outcomes",
+    "url": "https://www.tandfonline.com/doi/abs/10.1080/03637751.2013.813632",
+    "publisher": "Communication Monographs",
+    "review_depth": "出版社公开摘要检索",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "出版社公开摘要检索，当前直接访问403。关联不证明每次暂停都是拒绝，也不能分配固定性别角色。",
+    "conflict_of_interest": "未系统核查",
+    "authors": "Schrodt, Witt, Shimkowski",
+    "year": "2014",
+    "doi": "10.1080/03637751.2013.813632",
+    "source_type": "元分析",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 403,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    },
+    "supported_claim": "需求/退缩互动与关系结果的关联综述，具体方向须依全文及情境解释"
+  },
+  {
+    "id": "R05",
+    "title": "Dyadic coping and relationship satisfaction: A meta-analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26295276/",
+    "publisher": "PubMed",
+    "review_depth": "Europe PMC官方完整摘要与书目已读",
+    "locator": "Abstract",
+    "checked_at": "2026-11-06",
+    "limitations": "相关研究，无法推导一次共同应对的因果收益",
+    "conflict_of_interest": "摘要不足以系统核查作者利益冲突",
+    "authors": "Falconier MK, Jackson JB, Hilpert P, Bodenmann G.",
+    "year": "2015",
+    "doi": "10.1016/j.cpr.2015.07.002",
+    "pmid": "26295276",
+    "supported_claim": "72个样本、17856人，共同应对与满意度相关约.45",
+    "source_type": "元分析",
+    "use_status": "按核查深度支持相关知识卡",
+    "retrieval_url": "https://europepmc.org/article/MED/26295276",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 203,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "R06",
+    "title": "The Efficacy of Emotionally Focused Couples Therapy and Behavioral Couples Therapy: A Meta-Analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29781200/",
+    "publisher": "PubMed",
+    "review_depth": "Europe PMC官方完整摘要与书目已读",
+    "locator": "Abstract",
+    "checked_at": "2026-11-06",
+    "limitations": "发表偏倚与随访限制，受训治疗结果不可迁移成技能效果",
+    "conflict_of_interest": "摘要不足以系统核查作者利益冲突",
+    "authors": "Rathgeber M, Bürkner PC, Schiller EM, Holling H.",
+    "year": "2019",
+    "doi": "10.1111/jmft.12336",
+    "pmid": "29781200",
+    "supported_claim": "33项试验比较行为与情绪聚焦伴侣治疗",
+    "source_type": "随机试验元分析",
+    "use_status": "按核查深度支持相关知识卡",
+    "retrieval_url": "https://europepmc.org/article/MED/29781200",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 203,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "R07",
+    "title": "Meta-analysis of couple therapy: Effects across outcomes, designs, timeframes, and other moderators.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32551734/",
+    "publisher": "PubMed",
+    "review_depth": "Europe PMC官方完整摘要与书目已读",
+    "locator": "Abstract",
+    "checked_at": "2026-11-06",
+    "limitations": "样本均为异性伴侣，依赖数据建模有限制，技能未经同等验证",
+    "conflict_of_interest": "摘要不足以系统核查作者利益冲突",
+    "authors": "Roddy MK, Walsh LM, Rothman K, Hatch SG, Doss BD.",
+    "year": "2020",
+    "doi": "10.1037/ccp0000514",
+    "pmid": "32551734",
+    "supported_claim": "伴侣治疗元分析涉及满意度、沟通和亲密等结局",
+    "source_type": "伴侣治疗元分析",
+    "use_status": "按核查深度支持相关知识卡",
+    "retrieval_url": "https://europepmc.org/article/MED/32551734",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 203,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "R08",
+    "title": "A randomized controlled trial of the web-based OurRelationship program: Effects on relationship and individual functioning.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26999504/",
+    "publisher": "PubMed",
+    "review_depth": "Europe PMC官方完整摘要与书目已读",
+    "locator": "Abstract",
+    "checked_at": "2026-11-06",
+    "limitations": "具体项目与参与条件，不能证明普通AI聊天或单人建议有效",
+    "conflict_of_interest": "摘要不足以系统核查作者利益冲突",
+    "authors": "Doss BD, Cicila LN, Georgia EJ, Roddy MK, Nowlan KM, Benson LA, Christensen A.",
+    "year": "2016",
+    "doi": "10.1037/ccp0000063",
+    "pmid": "26999504",
+    "supported_claim": "300对异性伴侣，约8小时结构化项目并含4次工作人员通话",
+    "source_type": "随机对照试验",
+    "use_status": "按核查深度支持相关知识卡",
+    "retrieval_url": "https://europepmc.org/article/MED/26999504",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 203,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "R09",
+    "title": "The Online OurRelationship Program for Relationally Distressed Individuals: A Pilot Randomized Controlled Trial.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29379675/",
+    "publisher": "PubMed",
+    "review_depth": "Europe PMC官方完整摘要与书目已读",
+    "locator": "Abstract",
+    "checked_at": "2026-11-06",
+    "limitations": "关系功能及抑郁焦虑未显著改善，单方参与无法保证双方改变",
+    "conflict_of_interest": "摘要不足以系统核查作者利益冲突",
+    "authors": "Nowlan KM, Roddy MK, Doss BD.",
+    "year": "2017",
+    "doi": "10.1037/cfp0000080",
+    "pmid": "29379675",
+    "supported_claim": "个人版试点部分个人生活指标改善",
+    "source_type": "个人版试点试验",
+    "use_status": "按核查深度支持相关知识卡",
+    "retrieval_url": "https://europepmc.org/article/MED/29379675",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 203,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "R10",
+    "title": "A randomized controlled trial of the online OurRelationship program with varying levels of coach support.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37674656/",
+    "publisher": "PubMed",
+    "review_depth": "开放正文关键章节已读",
+    "locator": "PMC10477807，Participants / Coaching / Relationship satisfaction / Limitations / Declaration of competing interest",
+    "checked_at": "2026-11-06",
+    "limitations": "短随访、等待名单、反复测量可能影响参与，所有组均有入组教练通话",
+    "conflict_of_interest": "Brian Doss为项目知识产权共同发明人并持有OurRelationship LLC股权",
+    "authors": "Le Y, Roddy MK, Rothman K, Salivar EG, Guttman S, Doss BD.",
+    "year": "2023",
+    "doi": "10.1016/j.invent.2023.100661",
+    "pmid": "37674656",
+    "supported_claim": "740对美国低收入伴侣的不同教练支持随机试验",
+    "source_type": "随机对照试验",
+    "use_status": "按核查深度支持相关知识卡",
+    "retrieval_url": "https://europepmc.org/article/MED/37674656",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 203,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "R11",
+    "title": "Adult Attachment, Stress, and Romantic Relationships.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27135049/",
+    "publisher": "PubMed",
+    "review_depth": "Europe PMC官方完整摘要与书目已读",
+    "locator": "Abstract",
+    "checked_at": "2026-11-06",
+    "limitations": "理论与研究综述，不能凭聊天给固定类型或临床诊断",
+    "conflict_of_interest": "摘要不足以系统核查作者利益冲突",
+    "authors": "Simpson JA, Steven Rholes W.",
+    "year": "2017",
+    "doi": "10.1016/j.copsyc.2016.04.006",
+    "pmid": "27135049",
+    "supported_claim": "依恋与压力情境互动的综述",
+    "source_type": "研究综述",
+    "use_status": "按核查深度支持相关知识卡",
+    "retrieval_url": "https://europepmc.org/article/MED/27135049",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 203,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "R12",
+    "title": "The Cognitive Dimension of Household Labor",
+    "url": "https://journals.sagepub.com/doi/10.1177/0003122419859007",
+    "publisher": "American Sociological Review",
+    "review_depth": "出版社完整摘要已读",
+    "locator": "Abstract",
+    "checked_at": "2026-11-06",
+    "limitations": "定性样本，不能把样本中的性别模式套到每个家庭",
+    "conflict_of_interest": "未系统核查",
+    "supported_claim": "35对伴侣的70次访谈，把认知家务区分为预判、寻找选项、决策、监控",
+    "authors": "Allison Daminger",
+    "year": "2019",
+    "doi": "10.1177/0003122419859007",
+    "source_type": "定性访谈",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 403,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "R13",
+    "title": "Examining the Relationship Between Financial Issues and Divorce",
+    "url": "https://scholarsarchive.byu.edu/facpub/4526/",
+    "publisher": "作者机构",
+    "review_depth": "作者机构与出版社摘要检索，关联性解释",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "纵向关联，不能把个人消费差异转成离婚概率或因果诊断",
+    "conflict_of_interest": "未系统核查",
+    "authors": "Jeffrey Dew, Sonya Britt, Sandra Huston",
+    "year": "2012",
+    "doi": "10.1111/j.1741-3729.2012.00715.x",
+    "source_type": "纵向观察研究",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    },
+    "supported_claim": "财务冲突与后续离婚风险相关"
+  },
+  {
+    "id": "R14",
+    "title": "Discernment Counseling for \"Mixed-Agenda\" Couples.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26189438/",
+    "publisher": "University of Minnesota",
+    "review_depth": "Europe PMC官方完整摘要与书目已读",
+    "locator": "Abstract",
+    "checked_at": "2026-11-06",
+    "limitations": "案例系列，非随机因果证据，不以挽救所有婚姻为目标",
+    "conflict_of_interest": "摘要不足以系统核查作者利益冲突",
+    "authors": "Doherty WJ, Harris SM, Wilde JL.",
+    "year": "2016",
+    "doi": "10.1111/jmft.12132",
+    "pmid": "26189438",
+    "supported_claim": "100个连续混合意向伴侣案例，关注对下一步的清晰认识",
+    "source_type": "连续案例系列",
+    "use_status": "按核查深度支持相关知识卡",
+    "retrieval_url": "https://europepmc.org/article/MED/26189438",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 203,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "R15",
+    "title": "When leaving your ex, love yourself: observational ratings of self-compassion predict the course of emotional recovery following marital separation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22282874/",
+    "publisher": "PubMed",
+    "review_depth": "Europe PMC官方完整摘要与书目已读",
+    "locator": "Abstract",
+    "checked_at": "2026-11-06",
+    "limitations": "观察研究，不给固定康复时间或治愈保证",
+    "conflict_of_interest": "摘要不足以系统核查作者利益冲突",
+    "authors": "Sbarra DA, Smith HL, Mehl MR.",
+    "year": "2012",
+    "doi": "10.1177/0956797611429466",
+    "pmid": "22282874",
+    "supported_claim": "109名分居成年人，自我关怀与较好恢复相关",
+    "source_type": "观察研究",
+    "use_status": "按核查深度支持相关知识卡",
+    "retrieval_url": "https://europepmc.org/article/MED/22282874",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 203,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "R16",
+    "title": "Popular Psychology Through a Scientific Lens: Evaluating Love Languages From a Relationship Science Perspective",
+    "url": "https://www.psychologicalscience.org/journals/current-directions/09637214231217663/",
+    "publisher": "APS",
+    "review_depth": "官方摘要及作者机构报道已读",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "评述不支持固定五类配对或匹配即幸福",
+    "conflict_of_interest": "未系统核查",
+    "supported_claim": "爱情语言核心假设的证据有限",
+    "authors": "Emily A. Impett, Haeyoung Gideon Park, Amy Muise",
+    "year": "2024",
+    "doi": "10.1177/09637214231217663",
+    "source_type": "理论证据评述",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "B01",
+    "title": "John Gottman，The Seven Principles for Making Marriage Work。日常连接与经营",
+    "url": "https://www.gottman.com/product/the-seven-principles-for-making-marriage-work/",
+    "publisher": "Gottman Institute",
+    "review_depth": "官方书籍与方法介绍，具体章节待深读",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "只核对官方简介或目录，未通读书籍。作为延伸阅读，不据此复刻书中练习或疗效。",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "专家著作或机构沟通说明",
+    "use_status": "主题核查与延伸阅读",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "B02",
+    "title": "Sue Johnson，Hold Me Tight。情绪、依恋与负向循环的教育素材",
+    "url": "https://iceeft.com/hold-me-tight-program/",
+    "publisher": "ICEEFT",
+    "review_depth": "官方项目介绍，具体练习待核对",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "只核对官方简介或目录，未通读书籍。作为延伸阅读，不据此复刻书中练习或疗效。",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "专家著作或机构沟通说明",
+    "use_status": "主题核查与延伸阅读",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "B03",
+    "title": "Christensen、Doss、Jacobson，Reconcilable Differences，第二版，2014",
+    "url": "https://www.guilford.com/books/Reconcilable-Differences/Christensen-Doss-Jacobson/9781462502431",
+    "publisher": "Guilford Press",
+    "review_depth": "出版社书目与简介，具体章节待深读",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "只核对官方简介或目录，未通读书籍。作为延伸阅读，不据此复刻书中练习或疗效。",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "专家著作或机构沟通说明",
+    "use_status": "主题核查与延伸阅读",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "B04",
+    "title": "Marshall Rosenberg，NVC相关资料。需要、请求和倾听",
+    "url": "https://www.cnvc.org/about/purpose-of-nvc",
+    "publisher": "CNVC",
+    "review_depth": "CNVC官方Purpose of NVC正文已读",
+    "locator": "Honest Expression / Empathic Presence / Means of Influence",
+    "checked_at": "2026-11-06",
+    "limitations": "沟通框架，不能保证他人配合或要求受伤者无条件共情",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "专家著作或机构沟通说明",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "B05",
+    "title": "Esther Perel，Mating in Captivity。长期亲密与欲望的解释视角",
+    "url": "https://www.estherperel.com/books",
+    "publisher": "作者书目",
+    "review_depth": "作者官方书籍介绍，正文待深读",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "只核对官方简介或目录，未通读书籍。作为延伸阅读，不据此复刻书中练习或疗效。",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "专家著作或机构沟通说明",
+    "use_status": "主题核查与延伸阅读",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "B06",
+    "title": "Esther Perel，The State of Affairs。背叛与关系意义的解释视角",
+    "url": "https://www.estherperel.com/books",
+    "publisher": "作者书目",
+    "review_depth": "作者官方书籍介绍，正文待深读",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "只核对官方简介或目录，未通读书籍。作为延伸阅读，不据此复刻书中练习或疗效。",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "专家著作或机构沟通说明",
+    "use_status": "主题核查与延伸阅读",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "B07",
+    "title": "Emily Nagoski，Come As You Are，2021修订版。压力、身体和亲密情境",
+    "url": "https://www.simonandschuster.com/books/Come-As-You-Are-Revised-and-Updated/Emily-Nagoski/9781982165314",
+    "publisher": "Simon & Schuster",
+    "review_depth": "出版社书目及简介，适用人群需保留",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "只核对官方简介或目录，未通读书籍。作为延伸阅读，不据此复刻书中练习或疗效。",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "专家著作或机构沟通说明",
+    "use_status": "主题核查与延伸阅读",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 403,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "F01",
+    "title": "Bowen家庭系统中的三角关系。扩展家庭角色视角",
+    "url": "https://www.thebowencenter.org/triangles",
+    "publisher": "Bowen Center",
+    "review_depth": "官方Triangles概念页已读",
+    "locator": "Triangles定义与互动说明",
+    "checked_at": "2026-11-06",
+    "limitations": "家庭系统理论视角，不能从三人关系推断病因",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "理论概念",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "C01",
+    "title": "沈奕斐及复旦家庭与亲密关系学术报告。补充中国家庭变化情境",
+    "url": "https://www.fudan.edu.cn/2023/0524/c24a135004/page.htm",
+    "publisher": "复旦大学",
+    "review_depth": "复旦官方报道，专家观点与社会背景",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "仅按已读取范围使用",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "高校报道与中国社会情境",
+    "use_status": "主题核查与延伸阅读",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "N01",
+    "title": "WHO，2013，亲密伴侣与性暴力应对指南",
+    "url": "https://www.who.int/publications-detail-redirect/9789241548595",
+    "publisher": "WHO",
+    "review_depth": "官方指南概览，面向卫生服务的范围",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "仅按已读取范围使用",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "专业规范、指南或法律入口",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "N02",
+    "title": "AAMFT Code of Ethics。参考多参与者内容保密原则",
+    "url": "https://www.aamft.org/AAMFT/web/Action-Advocacy/Code-of-Ethics-New.aspx",
+    "publisher": "AAMFT",
+    "review_depth": "2026版官方前言已读",
+    "locator": "Preamble，2026-01-01生效",
+    "checked_at": "2026-11-06",
+    "limitations": "用于提示多参与者保密与授权问题，不能宣称本技能符合完整专业执业规范",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "专业规范、指南或法律入口",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "N03",
+    "title": "中华人民共和国民法典婚姻家庭编。法律信息入口",
+    "url": "https://www.moj.gov.cn/pub/sfbgw/zwgkztzl/2026nianzhuanti/2026mfdxcy/2026mfdxcy_mfdqw/202605/t20260520_535295.html",
+    "publisher": "司法部",
+    "review_depth": "官方文本检索，具体问题按地区与时效查询",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "仅按已读取范围使用",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "专业规范、指南或法律入口",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "N04",
+    "title": "婚姻家庭编解释（二），2025。更新法律资料的时效范围",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/452711.html",
+    "publisher": "最高人民法院",
+    "review_depth": "最高人民法院发布信息检索",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "仅按已读取范围使用",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "专业规范、指南或法律入口",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "S01",
+    "title": "Michael大麦哥，2026-10-19，爱情六主题与五问",
+    "url": "https://www.bilibili.com/video/BV1MsnG6TEf3/",
+    "publisher": "作者同版视频",
+    "review_depth": "完整音轨本地转写、全文通读，逐字听校待进行",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "仅按已读取范围使用",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "原始蒸馏素材与开源实现",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 412,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "S02",
+    "title": "狗头军师，提交6db7354。工作流、回复编排与投入校准",
+    "url": "https://github.com/shengjidaguai-china/goutoujunshi/tree/6db7354a4002dc7c448a9c87ffdad8132570c9d3",
+    "publisher": "上游版本",
+    "review_depth": "已读取核心源码与相关方法文档，按来源许可使用",
+    "locator": "设计附录所列官方页面",
+    "checked_at": "2026-11-06",
+    "limitations": "仅按已读取范围使用",
+    "conflict_of_interest": "未系统核查",
+    "source_type": "原始蒸馏素材与开源实现",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "R17",
+    "title": "What do you do when things go right? The intrapersonal and interpersonal benefits of sharing positive events.",
+    "authors": "Gable SL, Reis HT, Impett EA, Asher ER.",
+    "year": "2004",
+    "doi": "10.1037/0022-3514.87.2.228",
+    "pmid": "15301629",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/15301629/",
+    "review_depth": "Europe PMC官方完整摘要与书目已读",
+    "locator": "Abstract",
+    "checked_at": "2026-11-06",
+    "supported_claim": "积极事件分享及主动建设性回应与关系幸福感相关",
+    "limitations": "研究情境下的关联，不能要求强颜欢笑或抵消伤害",
+    "conflict_of_interest": "摘要不足以系统核查作者利益冲突",
+    "source_type": "多研究论文",
+    "use_status": "按核查深度支持相关知识卡",
+    "retrieval_url": "https://europepmc.org/article/MED/15301629",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 203,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "R18",
+    "title": "Changes in relationship satisfaction across the transition to parenthood: a meta-analysis.",
+    "authors": "Mitnick DM, Heyman RE, Smith Slep AM.",
+    "year": "2009",
+    "doi": "10.1037/a0017004",
+    "pmid": "20001143",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20001143/",
+    "review_depth": "Europe PMC官方完整摘要与书目已读",
+    "locator": "Abstract",
+    "checked_at": "2026-11-06",
+    "supported_claim": "转为父母的37项研究并含4项非父母比较研究",
+    "limitations": "满意度变化不一定由生育独有地造成，不能推断每对夫妻都会恶化",
+    "conflict_of_interest": "摘要不足以系统核查作者利益冲突",
+    "source_type": "元分析",
+    "use_status": "按核查深度支持相关知识卡",
+    "retrieval_url": "https://europepmc.org/article/MED/20001143",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 203,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "E01",
+    "title": "Gottman Institute，The Four Horsemen: The Antidotes",
+    "url": "https://www.gottman.com/blog/the-four-horsemen-the-antidotes/",
+    "review_depth": "官方教育页有关替代行为段落已读",
+    "locator": "Gentle Start-Up / Contempt / Responsibility / Self-Soothing",
+    "limitations": "教育性操作参考，机构同时销售产品，不采用预测准确率与固定比例承诺",
+    "checked_at": "2026-11-06",
+    "conflict_of_interest": "见来源性质与局限",
+    "source_type": "专业机构教育页",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "E02",
+    "title": "ICEEFT，What is EFT?",
+    "url": "https://iceeft.com/what-is-eft-public/",
+    "review_depth": "官方公共说明已读",
+    "locator": "EFT概述与家庭循环说明",
+    "limitations": "治疗取向介绍与推广材料，自助练习不能等同完整治疗",
+    "checked_at": "2026-11-06",
+    "conflict_of_interest": "见来源性质与局限",
+    "source_type": "专业机构教育页",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  },
+  {
+    "id": "N05",
+    "title": "WHO，Caring for women subjected to violence，2021 revised edition",
+    "url": "https://www.who.int/publications/i/item/9789240039803/",
+    "review_depth": "官方目录与LIVES说明已核查",
+    "locator": "First-line support using LIVES",
+    "limitations": "面向卫生专业人员与女性受暴者，技能只采用支持原则，不执行临床评估",
+    "checked_at": "2026-11-06",
+    "conflict_of_interest": "见来源性质与局限",
+    "source_type": "专业规范、指南或法律入口",
+    "use_status": "按核查深度支持相关知识卡",
+    "url_check": {
+      "checked_at": "2026-11-06",
+      "http_status": 200,
+      "note": "页面状态检查，未据此提升阅读深度。PubMed 203为挑战页面，摘要通过Europe PMC取得。403/412保留为受限，未标为全文可读。"
+    }
+  }
+]
